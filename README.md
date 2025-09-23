@@ -5,14 +5,11 @@ I'm Xinyu Chen(Brian), a BA/CS student in Wenzhou-Kean University and interested
 
 ## Tech Stack
 
-| Category | Proficient In | Know about |
-|---|---|---|
-| **Programming Languages** | Python (Pandas / NumPy / Scikit-learn), R, SQL, Java | C++, C#, Stata |
-| **Data & Analytics Tools** | Jupyter Notebook, ETL pipelines, Tableau, Excel | Power BI |
-| **Frameworks & Platforms** | Scikit-learn, Data Processing & Cleaning | iOS (Swift), Qt |
-| **Other Skills** | Data Wrangling, Regression Analysis, Machine Learning | - |
 
----
+**Programming Languages:** Python (Pandas / NumPy / Scikit-learn), R, SQL, Java, C++, Stata
+**Data & Analytics Tools:** Jupyter Notebook, Snowflake, Hive, Hadoop, KNIME, Tableau, Power BI
+**Models:**  Model Stacking, Tree‑based Ensemble, MLP, CNN, RNN, Linear/Logistic Regression
+**Methodology:**  A/B Test, Segmentation, Hypothesis Testing, Causal Inference
 
 ## Projects & Portfolio
 
@@ -20,19 +17,16 @@ Some representative projects in Github that demonstrate my technical ability and
 
 | Project | Description | Tech & Challenges | Outcome |
 |---|---|---|---|
-| **Campus Card & Utility Fee Query App** | A full-stack system for querying campus card balance and utility fees, with both backend server and iOS client | Python Flask backend (API design, data handling), Swift iOS frontend, OAuth2 reverse engineering, server deployment on Azure/Alibaba Cloud | Delivered a working system, gained experience in backend/frontend integration, push notification via APNs, and server optimization |
-| **Course Table Converter** | A utility tool to convert raw course schedule exports from the student system into clean, human-readable formats or calendar-importable files | Python (data parsing, Pandas), Excel/CSV/ICS conversion, automation of formatting | Simplified academic scheduling for students; improved understanding of text parsing, data transformation, and file format compatibility |
+| **Campus Card & Utility Fee Query App** | A full-stack system for querying campus card balance and utility fees, with both backend server, iOS and Android client | Python Flask backend (API design, data handling), Swift iOS frontend, OAuth2 reverse engineering, server deployment on Azure/Alibaba Cloud | Delivered a working system, gained experience in backend/frontend integration, push notification via APNs, and server optimization |
 | **Kaggle Project – Personality Prediction** | Machine learning competition predicting introverts vs extroverts | Python, Jupyter Notebook, feature engineering, classification models (Random Forest, XGBoost, MLP) | Enhanced skills in ML pipeline design, data preprocessing, and model evaluation |
-
----
+| **Course Table Converter** | A utility tool to convert raw course schedule exports from the student system into .cis and .csv files | Python (data parsing, Pandas), Excel/CSV/ICS conversion, automation of formatting | Simplified academic scheduling for students; improved understanding of text parsing, data transformation, and file format compatibility |
 
 ## Research Interests
 
-- Machine Learning & Deep Learning (model design, generalization, interpretability)  
-- Big Data Processing & Distributed Computing  
-- Statistical Modeling & Applied Data Science (regression, time series, experimental design)  
 - Software Engineering & System Design (modular architecture, API design, cross-platform development)
-
+- Big Data Processing & Distributed Computing
+- Machine Learning & Statistical Modeling
+  
 
 ## How to Reach me
 
