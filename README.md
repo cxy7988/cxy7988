@@ -7,8 +7,11 @@ I'm Xinyu Chen(Brian), a BA/CS student in Wenzhou-Kean University and interested
 
 
 **Programming Languages:** Python (Pandas / NumPy / Scikit-learn), R, SQL, Java, C++, Stata
-**Data & Analytics Tools:** Jupyter Notebook, Snowflake, Hive, Hadoop, KNIME, Tableau, Power BI
-**Models:**  Model Stacking, Tree‑based Ensemble, MLP, CNN, RNN, Linear/Logistic Regression
+
+**Analytics Tools:** Jupyter Notebook, Snowflake, Hive, Hadoop, KNIME, Tableau, Power BI
+
+**Data Models:**  Model Stacking, Tree‑based Ensemble, MLP, CNN, RNN, Linear/Logistic Regression
+
 **Methodology:**  A/B Test, Segmentation, Hypothesis Testing, Causal Inference
 
 ## Projects & Portfolio
