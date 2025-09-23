@@ -6,7 +6,7 @@ I'm Xinyu Chen(Brian), a BA/CS student in Wenzhou-Kean University and interested
 ## Tech Stack
 
 
-**Programming Languages:** Python (Pandas / NumPy / Scikit-learn), R, SQL, Java, C++, Stata
+**Programming Languages:** Python (PyTorch / Scikit-learn), R, SQL, Java, C++, Stata
 
 **Analytics Tools:** Jupyter Notebook, Snowflake, Hive, Hadoop, KNIME, Tableau, Power BI
 
