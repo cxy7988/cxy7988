@@ -23,7 +23,6 @@ I'm Xinyu Chen(Brian), a data science student in University of California, San D
 |---|---|---|
 | **Campus Card & Utility Fee Query System**<br>[Backend](https://github.com/cxy7988/cardQuery_linuxServer) · [iOS](https://github.com/cxy7988/cardQueryApp_ios) · [Android](https://github.com/cxy7988/cardQueryApp_android) | A cross-platform system for querying campus card balances and dormitory water and electricity fees. It supports email verification, scheduled queries, history records, and iOS push notifications. | Flask, Celery, Redis, SQLite, REST APIs, SwiftUI, Combine, Jetpack Compose, Kotlin Coroutines, MVVM |
 | **[Kaggle Personality Classification](https://github.com/cxy7988/Kaggle_Predict_the_Introverts_from_the_Extroverts)** | Predicts introvert and extrovert personality labels from behavioral features using a multi-stage ensemble pipeline. | Random Forest, XGBoost, LightGBM, MLP feature extraction, stacking, SMOTE, cross-validation; **97.17% validation accuracy** |
-| **[Course Schedule Converter](https://github.com/cxy7988/courseTableConverter)** | Converts official Kean University PDF course schedules into iCalendar and CSV files for calendar and timetable applications. | Python, PDF parsing, structured data transformation, CSV and ICS generation |
 
 ## Coursework & Learning Repositories
 
